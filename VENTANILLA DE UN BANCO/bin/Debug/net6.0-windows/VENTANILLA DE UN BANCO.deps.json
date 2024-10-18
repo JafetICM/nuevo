@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VENTANILLA DE UN BANCO/1.0.0": {
+        "runtime": {
+          "VENTANILLA DE UN BANCO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VENTANILLA DE UN BANCO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
